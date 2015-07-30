@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\Santhosh\Documents\publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Pub</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/AspNet.ScriptManager.jQuery.dll">
@@ -52,7 +52,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/14/2014 12:47:56</publishTime>
     </File>
     <File Include="bin/LINKSKARTNEW.dll">
-      <publishTime>07/21/2015 07:30:12</publishTime>
+      <publishTime>07/30/2015 23:41:14</publishTime>
+    </File>
+    <File Include="bin/LINKSKARTNEW.dll.config">
+      <publishTime>07/30/2015 01:01:29</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>06/14/2015 16:59:22</publishTime>
@@ -387,6 +390,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="css/style.min.css">
       <publishTime>06/14/2015 17:01:56</publishTime>
     </File>
+    <File Include="Default.aspx">
+      <publishTime>07/30/2015 23:40:30</publishTime>
+    </File>
     <File Include="favicon.ico">
       <publishTime>06/14/2015 16:58:09</publishTime>
     </File>
@@ -511,7 +517,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/14/2015 17:01:56</publishTime>
     </File>
     <File Include="frm_login.aspx">
-      <publishTime>07/04/2015 19:38:52</publishTime>
+      <publishTime>07/30/2015 01:15:41</publishTime>
     </File>
     <File Include="Global.asax">
       <publishTime>06/14/2015 16:58:09</publishTime>
@@ -2061,6 +2067,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="packages.config">
       <publishTime>06/14/2015 16:59:22</publishTime>
     </File>
+    <File Include="Properties/PublishProfiles/publish.pubxml.user">
+      <publishTime>07/30/2015 23:41:16</publishTime>
+    </File>
     <File Include="Scripts/jquery-1.8.2.js">
       <publishTime>06/14/2015 18:20:28</publishTime>
     </File>
@@ -2077,7 +2086,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/14/2015 18:20:28</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/21/2015 07:30:15</publishTime>
+      <publishTime>07/30/2015 23:33:04</publishTime>
     </File>
   </ItemGroup>
 </Project>

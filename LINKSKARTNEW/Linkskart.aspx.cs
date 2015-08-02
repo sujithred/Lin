@@ -2361,7 +2361,7 @@ namespace LINKSKARTNEW
                         {
                             if (status == "")
                             {
-                                status = status + "," + email + "";
+                                status = email;
                             }
                             else
                             {

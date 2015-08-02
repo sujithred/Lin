@@ -607,13 +607,14 @@
              //    alert('Given EmailID is not our registered client')
              //}
              //else {
-             if (status == 'true') {
+             if (status == 'false') {
+                 alert('contact admin');
+                
+             }
+             else {
                  alert('Link shared successfully');
                  $('#mymodalshare').modal('hide');
                  linkshareemail();
-             }
-             else {
-                 alert('contact admin');
              }
              //}
          }

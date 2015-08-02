@@ -25,7 +25,7 @@
     <style>
         .main-text {
             position: absolute;
-            top: 50px;
+            top: 51px;
             width: 96.66666666666666%;
         }
 
